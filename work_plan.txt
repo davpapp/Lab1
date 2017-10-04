@@ -1,0 +1,16 @@
+Lab 1 Work Plan
+By Jonah Spear and David Papp
+
+Breakdown of tasks and estimated durations:
+-	Reading through instructions and understanding ALUs and other components involved:
+30 minutes
+-	Verilog: Constructing ALU, creating testing cases, adding delays, and documenting code:
+2 hours
+-	Test benches: Creating appropriate and in-depth test cases to test functionality and confirm edge cases work as expected
+1 hour
+-	Lab report: Write up of our process and learning
+30 minutes
+-	Miscellaneous problems: This includes mysterious debugging messages, looking for bugs, forgetting to recompile, and more.
+1 hour
+
+In total, we expect this to take 4-5 hours. We hope to get started as soon as Thursday, October 5th in order to put as in a good spot, should errors come up.
